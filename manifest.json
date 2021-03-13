@@ -1,0 +1,24 @@
+{
+    "name": "Contador App Vue",
+    "short_name": "Contador Vue",
+    "description": "aumenta o disminulle canridades",
+    "background_color": "#35495e",
+    "theme_color": "#208b5b",
+    "start_url": "./?umt_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-PE",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "./img/iconfinder_pequeño.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/iconfinder_grande.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
